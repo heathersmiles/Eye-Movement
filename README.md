@@ -19,7 +19,7 @@ In the future, update the eyes to randomly change color upon mouse click.
 ## License
 MIT License
 
-Copyright (c) 2020 John Williams
+Copyright (c) 2023 Heather Kenagy
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
